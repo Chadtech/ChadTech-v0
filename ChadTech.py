@@ -3425,6 +3425,8 @@ while quit==False:
 								stImage = Image.new('RGB',(stXs,stYs),'black')
 								for hsy in range(len(pagen)):
 									stImage.paste(Image.open('pag'+str(hsy)+'.PNG'),(0,hsy*windY,stXs,windY+(hsy*windY)))
+								for hsy in range(len(pagen)):
+									os.remove("pag"+str(hsy)+".PNG")
 								############## Put the character in the pixel
 								#############################################
 								####### Make an array of all the character digits
