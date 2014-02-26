@@ -29,3 +29,5 @@ py2applet --make-setup ChadTech.py
 Finally generate the .app file:
 python setup.py py2app --resources icon.PNG,chars6x8,chars12x16,introscreen.PNG,selected.PNG,thumbnail.PNG --iconfile thumbnail.icns --packages PIL
 
+Then for a dmg, if you like:
+hdiutil create -srcfolder dist/ChadTech.app/ dist/ChadTech.dmg
