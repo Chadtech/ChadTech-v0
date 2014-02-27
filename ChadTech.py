@@ -3706,7 +3706,7 @@ while quit==False:
 									charray.charen.insert(curChar,addChar(porter[yit]))
 									curChar+=1
 								else:
-									charray.charen.insert(curChar,addChar(porter[yit]))
+									charray.charen.insert(curChar,addChar(misc__numbersign))
 									curChar+=1
 						else:
 							charray.charen.append(addChar(uppercase__F))
