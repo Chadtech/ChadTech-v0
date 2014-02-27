@@ -1,3 +1,5 @@
+![alt tag](http://i.imgur.com/fWyCryA.png)
+
 Running Chadtech from source:
 
 To chadtech on a mac we need some dependancies, and homebrew is the preferred method to get them http://brew.sh/
