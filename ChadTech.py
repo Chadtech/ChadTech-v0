@@ -3352,7 +3352,7 @@ while quit==False:
 				if event.key in uparrow.keys and ((letCor['LEFTCONTROL'] in keys) or (letCor['RIGHTCONTROL'] in keys)):
 					for yit in [0]*6*lineLen:
 						if curChar>0:
-							curChar+=1
+							curChar-=1
 
 				if event.key in downarrow.keys:
 					for yit in [0]*lineLen:
