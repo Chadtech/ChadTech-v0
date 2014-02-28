@@ -1,4 +1,4 @@
-![alt tag](http://i.imgur.com/JiWAlmb.png)
+![alt tag](http://i.imgur.com/VbUrX0f.png)
 
 Running Chadtech from source:
 
