@@ -9,7 +9,7 @@ from setuptools import setup
 
 APP = ['ChadTech.py']
 DATA_FILES = []
-OPTIONS = {'argv_emulation': True,
+OPTIONS = {
            'iconfile': 'thumbnail.icns', #if you want to add some ico
            'plist': {
                 'CFBundleName': 'ChadTech',
