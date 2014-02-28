@@ -2,9 +2,6 @@ import os
 import pygame
 import PIL
 from PIL import Image
-import Tkinter, tkFileDialog
-brunk = Tkinter.Tk()
-brunk.withdraw()
 
 #### Beginning Screen resolution
 screenWidth=1366
