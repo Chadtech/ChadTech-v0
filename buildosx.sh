@@ -1,6 +1,6 @@
 
-python setup.py py2app --resources icon.PNG,chars6x8,chars12x16,introscreen.PNG,selected.PNG,thumbnail.PNG --iconfile thumbnail.icns --packages PIL,pygame,wx
+python setup.py py2app
 
-rm -rf dist/*.dmg
+rm -rf dist/osx/*
 
-hdiutil create -srcfolder dist/ChadTech.app/ dist/ChadTech.dmg
+hdiutil create -srcfolder dist/ChadTech.app/ dist/osx/ChadTech.dmg
