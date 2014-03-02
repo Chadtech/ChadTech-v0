@@ -39,3 +39,11 @@ pip install py2app numpy
 
 Then you can run ./buildosx.sh to create an app and DMG
 
+## Building a Windows binary (optional)
+
+0. Install cxfreeze
+1. In the directory 'ChadTech-v0' run 'python intoexe.py build' 
+2. A folder named 'build' should now exist, add to it 'thumbnail.png','selected.png','introscreen.png','/chars6x8', and '/chars12x16'.
+3. The build file is ChadTech as released. The exe in the build file is the application. Its icon is 'thumbnail.ico'. 
+4. To create the installer install NSIS, and look for the NSIS quick setup application online. The NSIS quick setup guide, with particular settings, created 'ChadTech-installer.exe'
+
