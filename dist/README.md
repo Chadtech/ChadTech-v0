@@ -1,2 +1,2 @@
-![alt tag](http://i.imgur.com/VbUrX0f.png)
+![alt tag](http://i.imgur.com/a5pZ98K.png)
 
