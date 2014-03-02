@@ -1,5 +1,5 @@
 
-python setup.py py2app
+python setuposx.py py2app
 
 rm -rf dist/osx/*
 
