@@ -1,4 +1,4 @@
-![alt tag](http://i.imgur.com/JiWAlmb.png)
+![alt tag](http://i.imgur.com/VbUrX0f.png)
 
 Running Chadtech from source:
 
@@ -25,11 +25,5 @@ Building an OSX binary (optional)
 You might wish to run a more bleeding edge version of chadtech, but still want it to be a mac .app file. To make the mac .app file you'll need another package if you dont have it:
 pip install py2app numpy
 
-Then you can create a setup file with:
-py2applet --make-setup ChadTech.py
+Then you can run ./buildosx.sh to create an app and DMG
 
-Finally generate the .app file:
-python setup.py py2app --resources icon.PNG,chars6x8,chars12x16,introscreen.PNG,selected.PNG,thumbnail.PNG --iconfile thumbnail.icns --packages PIL
-
-Then for a dmg, if you like:
-hdiutil create -srcfolder dist/ChadTech.app/ dist/ChadTech.dmg
