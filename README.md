@@ -47,3 +47,9 @@ Then you can run ./buildosx.sh to create an app and DMG
 3. The build file is ChadTech as released. The exe in the build file is the application. Its icon is 'thumbnail.ico'. 
 4. To create the installer install NSIS, and look for the NSIS quick setup application online. The NSIS quick setup guide, with particular settings, created 'ChadTech-installer.exe'
 
+
+----------------------------------------------
+
+Discovered bugs:
+
+* L key in slanty font presents 'K'
