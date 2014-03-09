@@ -53,3 +53,4 @@ Then you can run ./buildosx.sh to create an app and DMG
 Discovered bugs:
 
 * L key in slanty font presents 'K'
+* Starts to develop lag after only 5 or so pages (800x800, linegap of 4)
