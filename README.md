@@ -54,3 +54,7 @@ Discovered bugs:
 
 * L key in slanty font presents 'K'
 * Starts to develop lag after only 5 or so pages (800x800, linegap of 4)
+
+Feature ideas:
+
+* Automatic file name generator (if a file exists with that name, name the file [name]1.PNG)
