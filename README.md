@@ -54,7 +54,7 @@ Discovered bugs:
 
 * L key in slanty font presents 'K'
 * Starts to develop lag after only 5 or so pages (800x800, linegap of 4)
-* Slanty mode leaves an necessary 'S' when activated.
+* Slanty mode leaves an 'S' when activated or deactivated
 
 Feature ideas:
 
