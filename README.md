@@ -59,3 +59,5 @@ Discovered bugs:
 Feature ideas:
 
 * Automatic file name generator (if a file exists with that name, name the file [name]1.PNG)
+* Search
+* Delete key
