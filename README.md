@@ -64,3 +64,4 @@ Feature ideas:
 * New Document Command
 * More Document sizes (1000x200 would be useful)
 * Remove gap between pages
+* Title on top of document
