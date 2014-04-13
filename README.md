@@ -66,3 +66,4 @@ Feature ideas:
 * Remove gap between pages
 * Title on top of document
 * Lowercase form of Slanty Font
+* Save /Save as distinction
