@@ -67,3 +67,4 @@ Feature ideas:
 * Title on top of document
 * Lowercase form of Slanty Font
 * Save /Save as distinction
+* Space character in small scripts
