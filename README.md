@@ -67,6 +67,6 @@ Feature ideas:
 * More Document sizes (1000x200 would be useful)
 * ~~Remove gap between pages~~ Available in v0.5
 * ~~Title on top of document~~ Available in v0.5
-* ~~Lowercase form of Slanty Font~~ available in v0.5
+* ~~Lowercase form of Slanty Font~~ Available in v0.5
 * Save /Save as distinction
-* ~~Space character in small scripts~~ available in v0.5
+* ~~Space character in small scripts~~ Available in v0.5
