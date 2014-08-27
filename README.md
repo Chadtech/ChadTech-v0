@@ -1,3 +1,5 @@
+## NOTICE, Chadtech v0 is now outdated. Chadtech v0.5 can be used in browser at ChadCS.github.io/ctjs/Chadtech.html, and found in github.com/ChadCS/Chadtech-v0.5 
+
 ## Download 
 
 Download binary for your operating system from dist folder and run installer (.exe or .dmg, no dependencies needed)
@@ -60,11 +62,11 @@ Feature ideas:
 
 * Automatic file name generator (if a file exists with that name, name the file [name]1.PNG)
 * Search
-* Delete key
+* ~~Delete key~~ Available in v0.5
 * New Document Command
 * More Document sizes (1000x200 would be useful)
-* Remove gap between pages
-* Title on top of document
-* Lowercase form of Slanty Font
+* ~~Remove gap between pages~~ Available in v0.5
+* ~~Title on top of document~~ Available in v0.5
+* ~~Lowercase form of Slanty Font~~ available in v0.5
 * Save /Save as distinction
-* Space character in small scripts
+* ~~Space character in small scripts~~ available in v0.5
